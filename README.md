@@ -1,6 +1,6 @@
 # BigRedHacks
 
-<b>Special Operatives:</b>
+<b>Secret Operatives:</b>
 
 A game by Justin Tran, Kevin Li, and Edwin Ma
 
