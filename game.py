@@ -165,7 +165,9 @@ while True:
                 if player.rect.x<0:
                     player.rect.x=0
                 if player.rect.x>1019:
-                    player.rect.x=1019 
+                    player.rect.x=1019
+                if player.rect.y > 530:
+                    player.rect.y = 530
                 if player.facing == 0 and player.rect.y != 530:
                     if counter < 8:
                         player.image = pygame.image.load("images/Jump1.png")
